@@ -6,11 +6,9 @@
                 {
                     "source": "C:\\Users\\12087\\AndroidStudioProjects\\MyQuizApp\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "-1,9,10,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,4,4,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,370,409,-1,-1,-1,-1,-1,-1",
-                        "endColumns": "-1,38,42,-1,-1,-1,-1,-1,-1",
-                        "endOffsets": "-1,404,447,-1,-1,-1,-1,-1,-1"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "572,573,580,798,799,800,811,812,816",
@@ -150,10 +148,10 @@
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "100",
+                        "startOffsets": "102",
                         "endLines": "14",
                         "endColumns": "12",
-                        "endOffsets": "796"
+                        "endOffsets": "810"
                     },
                     "to": {
                         "startLines": "5799",
@@ -435,10 +433,10 @@
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "102",
+                        "startOffsets": "100",
                         "endLines": "14",
                         "endColumns": "12",
-                        "endOffsets": "810"
+                        "endOffsets": "796"
                     },
                     "to": {
                         "startLines": "5799",

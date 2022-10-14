@@ -44,12 +44,12 @@
         "source": "C:\\Users\\12087\\.gradle\\daemon\\7.4\\com.example.myquizapp-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\12087\\.gradle\\daemon\\7.4\\com.example.myquizapp-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\12087\\.gradle\\daemon\\7.4\\com.example.myquizapp-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
-    },
-    {
         "merged": "C:\\Users\\12087\\.gradle\\daemon\\7.4\\com.example.myquizapp-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\12087\\.gradle\\daemon\\7.4\\com.example.myquizapp-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\12087\\.gradle\\daemon\\7.4\\com.example.myquizapp-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\12087\\.gradle\\daemon\\7.4\\com.example.myquizapp-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "C:\\Users\\12087\\.gradle\\daemon\\7.4\\com.example.myquizapp-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
