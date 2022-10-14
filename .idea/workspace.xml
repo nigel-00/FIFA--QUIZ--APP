@@ -9,9 +9,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e347a63f-0922-42ce-9495-ec1a41a6ce25" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="e347a63f-0922-42ce-9495-ec1a41a6ce25" name="Changes" comment="Initial commit" />
+>>>>>>> origin/main
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +148,11 @@
       <option name="DEPLOY_AS_INSTANT" value="false" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
+<<<<<<< HEAD
       <option name="ALL_USERS" value="true" />
+=======
+      <option name="ALL_USERS" value="false" />
+>>>>>>> origin/main
       <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
       <option name="CLEAR_APP_STORAGE" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
@@ -220,6 +228,7 @@
       <option name="project" value="LOCAL" />
       <updated>1665753533228</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00003" summary="Initial commit">
       <created>1665756777752</created>
       <option name="number" value="00003" />
@@ -228,6 +237,9 @@
       <updated>1665756777752</updated>
     </task>
     <option name="localTasksCounter" value="4" />
+=======
+    <option name="localTasksCounter" value="3" />
+>>>>>>> origin/main
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -262,8 +274,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="Add README FILE" />
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+=======
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Add README FILE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add README FILE" />
+>>>>>>> origin/main
   </component>
 </project>
