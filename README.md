@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Overview
 
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
@@ -28,3 +29,6 @@
 * Item 1
 * Item 2
 * Item 3
+=======
+# FIFA-Quiz-App
+>>>>>>> 941acd9 (Initial commit)
