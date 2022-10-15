@@ -1,8 +1,5 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-
 This is a quiz game android application built using Kotlin, xml, and using Android Studio as an Integrated Development Environment(IDE).
 The xml page is mainly for representing the structure, and the layout of the app. The Kotlin file is for the functionality of the app. I was able to 
 integrate/ bind my xml views with my Kotlin code using the findViewById method. This enabled functionality in the user interface. The quiz app which consists of 
@@ -10,6 +7,7 @@ soccer questions has one screen that displays the number of questions on top, th
 The user is able to choose an answer by clicking the button with a choice answer and clicking the submit button. The submit button will record the answer and
 generates a new question. After the end of available questions, a dialog will pop up with the total score and an option to restart the quiz.
 
+# Purpose
 
 The purpose for creating this quiz was inspired by my love for trivia games. I wanted to imagine and create one of my own. Most importantly I wanted to develop 
 my knowledge of creating android apps and thought the quiz game was a good place to start.
