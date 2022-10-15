@@ -13,7 +13,7 @@ The purpose for creating this quiz was inspired by my love for trivia games. I w
 my knowledge of creating android apps and thought the quiz game was a good place to start.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/qgWXTFTFCzQ)
 
 # Development Environment
 
