@@ -36,3 +36,6 @@ my knowledge of creating android apps and thought the quiz game was a good place
 * Incorporate multiple pages
 * Integrate with phone component, camera etc.
 * Hint dialogs to questions
+
+
+
